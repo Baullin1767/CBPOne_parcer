@@ -1,7 +1,6 @@
 #! /usr/bin/env python
 
 import time
-import os
 
 from com.dtmilano.android.viewclient import ViewClient
 
